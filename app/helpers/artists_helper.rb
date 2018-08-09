@@ -9,3 +9,4 @@ module ArtistsHelper
   
   end
 end
+end 
