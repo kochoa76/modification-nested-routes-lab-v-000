@@ -10,6 +10,4 @@ module ArtistsHelper
       hidden_tag "song[artist_id]", song.artist_id
     end
   end
-end 
-
-
+end
